@@ -8,8 +8,8 @@
     <title>Regional selector</title>
 
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
-    <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
+    <link rel="stylesheet" href="page-assets/owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="page-assets/owlcarousel/owl.theme.default.min.css">
     <link rel="stylesheet" href="page-assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="page-assets/css/style.css">
     <link rel="stylesheet" href="page-assets/css/queries.css">
